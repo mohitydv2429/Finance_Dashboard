@@ -10,7 +10,8 @@ An interactive, end-to-end data analysis project that transforms raw multi-count
 
 The main dashboard interface, user experience features, and core visual matrices can be reviewed below:
 
-![Finance Dashboard](Finance_dashboard.PNG)
+![Finance Dashboard]<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/f07c7348-2662-4f09-823a-5df40fd193af" />
+
 
 ---
 
@@ -59,4 +60,5 @@ Based on the dataset optimization and data modeling phases, the dashboard tracks
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/sachiuhhigt/finance-dashboard.git](https://github.com/sachiuhhigt/finance-dashboard.git)
+   git clone [https://github.com/mohitydv2429/Finance_Dashboard.git)
+   
